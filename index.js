@@ -1,2 +1,3 @@
-monpremiervim ?
+var a = "test"
 
+b = a
